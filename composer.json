@@ -1,0 +1,18 @@
+{
+    "name": "root/ciklope",
+    "description": "",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jose",
+            "email": "josemartinezsegui@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "models\\": "models/"
+        }
+    },
+    "require": {}
+}
